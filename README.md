@@ -22,8 +22,6 @@ Here are some ideas to get you started:
   Product-minded software engineer, my workflow is based on developing always a better experience for users and developers that will maintain the code in the future, using bests practices for code, testing, and agile methodologies.
 
 Also, I consider myself a good communicator, good at being helped and helping others, worried about always improving my skills and of my teammates spreading knowledge with them.
-  
-  Currently working on Repassa
 </p>
 
 <p align="left">
